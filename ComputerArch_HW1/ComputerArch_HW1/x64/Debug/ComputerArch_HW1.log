@@ -1,0 +1,24 @@
+﻿  bp.cpp
+C:\Users\eviatarsegev\Desktop\אביתר לימודים\סמסטר ה'\מבנה מחשבים\CompArch-hw1\bp.cpp(11,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\eviatarsegev\Desktop\אביתר לימודים\סמסטר ה'\מבנה מחשבים\CompArch-hw1\bp.cpp(11,12): error C2146: syntax error: missing ';' before identifier 'BP_Table'
+C:\Users\eviatarsegev\Desktop\אביתר לימודים\סמסטר ה'\מבנה מחשבים\CompArch-hw1\bp.cpp(38,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eviatarsegev\Desktop\אביתר לימודים\סמסטר ה'\מבנה מחשבים\CompArch-hw1\bp.cpp(44,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eviatarsegev\Desktop\אביתר לימודים\סמסטר ה'\מבנה מחשבים\CompArch-hw1\bp.cpp(46,24): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\eviatarsegev\Desktop\אביתר לימודים\סמסטר ה'\מבנה מחשבים\CompArch-hw1\bp.cpp(91,3): error C2064: term does not evaluate to a function taking 7 arguments
+C:\Users\eviatarsegev\Desktop\אביתר לימודים\סמסטר ה'\מבנה מחשבים\CompArch-hw1\bp.cpp(103,63): error C2660: 'bitExtracted': function does not take 2 arguments
+C:\Users\eviatarsegev\Desktop\אביתר לימודים\סמסטר ה'\מבנה מחשבים\CompArch-hw1\bp.cpp(15,5): message : see declaration of 'bitExtracted'
+C:\Users\eviatarsegev\Desktop\אביתר לימודים\סמסטר ה'\מבנה מחשבים\CompArch-hw1\bp.cpp(104,5): error C2109: subscript requires array or pointer type
+C:\Users\eviatarsegev\Desktop\אביתר לימודים\סמסטר ה'\מבנה מחשבים\CompArch-hw1\bp.cpp(110,36): error C2109: subscript requires array or pointer type
+C:\Users\eviatarsegev\Desktop\אביתר לימודים\סמסטר ה'\מבנה מחשבים\CompArch-hw1\bp.cpp(115,31): error C2109: subscript requires array or pointer type
+C:\Users\eviatarsegev\Desktop\אביתר לימודים\סמסטר ה'\מבנה מחשבים\CompArch-hw1\bp.cpp(130,85): error C2660: 'bitExtracted': function does not take 2 arguments
+C:\Users\eviatarsegev\Desktop\אביתר לימודים\סמסטר ה'\מבנה מחשבים\CompArch-hw1\bp.cpp(15,5): message : see declaration of 'bitExtracted'
+C:\Users\eviatarsegev\Desktop\אביתר לימודים\סמסטר ה'\מבנה מחשבים\CompArch-hw1\bp.cpp(135,6): error C2660: 'bitExtracted': function does not take 2 arguments
+C:\Users\eviatarsegev\Desktop\אביתר לימודים\סמסטר ה'\מבנה מחשבים\CompArch-hw1\bp.cpp(15,5): message : see declaration of 'bitExtracted'
+C:\Users\eviatarsegev\Desktop\אביתר לימודים\סמסטר ה'\מבנה מחשבים\CompArch-hw1\bp.cpp(146,117): error C2660: 'pow': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(482,35): message : see declaration of 'pow'
+C:\Users\eviatarsegev\Desktop\אביתר לימודים\סמסטר ה'\מבנה מחשבים\CompArch-hw1\bp.cpp(151,52): error C2660: 'pow': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(482,35): message : see declaration of 'pow'
+C:\Users\eviatarsegev\Desktop\אביתר לימודים\סמסטר ה'\מבנה מחשבים\CompArch-hw1\bp.cpp(155,86): error C2660: 'bitExtracted': function does not take 2 arguments
+C:\Users\eviatarsegev\Desktop\אביתר לימודים\סמסטר ה'\מבנה מחשבים\CompArch-hw1\bp.cpp(15,5): message : see declaration of 'bitExtracted'
+  bp_main.cpp
+  Generating Code...
